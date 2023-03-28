@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clientes>
+  <!-- Archivo XML generado con los datos de la tabla Clientes -->
+  <cliente>
+    <id>1</id>
+    <name>fernando</name>
+    <lastName>antonio gonzález</lastName>
+    <rfc>AOGFF990811HN1</rfc>
+    <email>fantonio1999@gmail.com</email>
+    <phone>7227456472</phone>
+  </cliente>
+  <cliente>
+    <id>2</id>
+    <name>fabiola</name>
+    <lastName>antonio gonzález</lastName>
+    <rfc>AOGFF990811HN2</rfc>
+    <email>fabiola1998@gmail.com</email>
+    <phone>7224578985</phone>
+  </cliente>
+</clientes>
